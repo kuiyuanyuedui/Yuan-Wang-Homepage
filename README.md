@@ -7,5 +7,7 @@
   defrfrgeghdefrfrgegh
 - ## Design Mockups
   defrfrgeghdefrfrgegh
+- ## Deployed URL
+  [My Homepage Site](https://pages.github.com/).
 
-**Author:** Yuan Wang
+**Author:** Yuan Wang  MIT License Demo linked
