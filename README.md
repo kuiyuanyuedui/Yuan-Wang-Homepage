@@ -1,4 +1,9 @@
-# 😃  Yuan-Wang-Homepage!  
+# ⛩️ Yuan-Wang-Homepage ⛩️
+**Author:** Yuan Wang  
+**License:** MIT License  
+**linked Code must freeze 24 hours before the deadline**  
+**Create a release**
+
 - ## Project Description
   defrfrgeghdefrfrgegh
 - ## User Personas
@@ -8,6 +13,8 @@
 - ## Design Mockups
   defrfrgeghdefrfrgegh
 - ## Deployed URL
-  [My Homepage Site](https://pages.github.com/).
+  🚀 [My Homepage Site](https://pages.github.com/).
+- ## Demo Video
+  📹 [My Homepage Site](https://pages.github.com/).
 
-**Author:** Yuan Wang  MIT License Demo linked
+
