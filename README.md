@@ -15,8 +15,9 @@
   defrfrgeghdefrfrgegh
 - ## Design Mockups
   defrfrgeghdefrfrgegh
-- ## Deployed URL https://kuiyuanyuedui.github.io/
+- ## Deployed URL 
   🚀 [My Homepage Site](https://pages.github.com/).
+  -> URL https://kuiyuanyuedui.github.io/
 - ## Video Demonstration
   📹 [My Homepage Site](https://www.youtube.com/watch?v=d4AiDV3Cn-g&t=63s).
 - ## Screenshot1
