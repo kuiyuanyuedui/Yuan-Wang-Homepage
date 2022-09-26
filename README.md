@@ -17,7 +17,7 @@
 - ## Video Demonstration
   📹 [My Homepage Site](https://kuiyuanyuedui.github.io/).
 - ## Screenshot
-- <img src="image/1.png" alt="scrshot1" title="screenshot1">
+- <img src="1.png" alt="scrshot1" title="screenshot1">
 - ## Tech Requirements
 - ## How to install/use
 
