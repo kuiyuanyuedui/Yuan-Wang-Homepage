@@ -4,10 +4,13 @@
 **Class**  [CS 5610 Web Development 2022 Fall](https://johnguerra.co/classes/webDevelopment_fall_2022/)
 
 - ## Project Objective
+- The purpose of this project was to display my background on computer science,
+- I will use advanced skills to develope this website.
 - ## Project Description
   a simple homepage site, it includs skills, courses, projects and contact pages.
 - ## User Personas
-  a recruiter is browing tons of text resumes everyday, it causes the visual fatigue, personal website is a good way to show your info to recuiter
+  - a recruiter is browing tons of text resumes everyday, it causes the visual fatigue.
+  - personal website would be a good option to show your info to recuiter
 - ## User Stories
   defrfrgeghdefrfrgegh
 - ## Design Mockups
