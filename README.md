@@ -16,8 +16,10 @@
   🚀 [My Homepage Site](https://pages.github.com/).
 - ## Video Demonstration
   📹 [My Homepage Site](https://kuiyuanyuedui.github.io/).
-- ## Screenshot
+- ## Screenshot1
 - ![s1](/images/1.png)
+- ## Screenshot2
+- ![s2](/images/2.png)
 - ## Tech Requirements
 - ## How to install/use
 
