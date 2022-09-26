@@ -15,7 +15,8 @@
 - ## Deployed URL(Author with link to homepage)
   🚀 [My Homepage Site](https://pages.github.com/).
 - ## Video Demonstration
-  📹 [My Homepage Site](https://pages.github.com/).
+  📹 [My Homepage Site](https://kuiyuanyuedui.github.io/).
+  URL: https://kuiyuanyuedui.github.io/
 - ## Screenshot
 - ## Tech Requirements
 - ## How to install/use
