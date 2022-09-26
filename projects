@@ -40,22 +40,22 @@
                     </a>
                 </div>
                 <ul class="menu">
-                    <li><a href="#">Home</a></li>
+                    <li><a href="index.html">Home</a></li>
                     <li><a href="skills.html">Skills</a></li>
                     <li><a href="courses.html">Courses</a></li>
-                    <li><a href="projects.html">Projects</a></li>
+                    <li><a href="#">Projects</a></li>
                     <li><a href="#">Hobbies</a></li>
                     <li><a href="contact.html">Contact</a></li>
                 </ul>
             </div>
         </nav>
 
-    <!--home section-->
-    <section class="home" id="home">
-        <h1>I'm Yuan.</h1>
-        <p class="sentence">a programmer.</p>
-        <img class="backpic" src="images/background.png" alt="mountain surround with green trees">
-    </section>
+    <!--projects-->
+    <a href="">
+        <img class="github" src="images/github.png" alt="github logo"/>
+    </a>
+
+
 
 
     <!--Footer-->
@@ -71,3 +71,4 @@
 
 </body>
 </html>
+
