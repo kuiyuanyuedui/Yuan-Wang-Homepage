@@ -24,6 +24,13 @@
 - ## Screenshot2
 - ![s2](/images/2.png)
 - ## Tech Requirements
-- ## How to install/use
+- HTML CSS Bootstrap 
+- ## How to install Dependencies:
+  - npm -> project build with npm init -y to create package.json files in project directory
+  - eslint -> npm install eslint
+  - prettier -> npm install prettier
+  - eslint-config-prettier -> npm install eslint-config-prettier
+  - eslint --init
+
 
 
