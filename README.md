@@ -1,9 +1,7 @@
 # ⛩️ Complete Responsive Personal Portfolio Website ⛩️
 **Author:** Yuan Wang  
 **License:** MIT License  
-**linked Code must freeze 24 hours before the deadline**  
-**Create a release**  
-Reference to the class with link
+**Class**  [CS 5610 Web Development 2022 Fall](https://johnguerra.co/classes/webDevelopment_fall_2022/)
 
 - ## Project Objective
 - ## Project Description
