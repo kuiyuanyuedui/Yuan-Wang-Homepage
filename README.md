@@ -12,11 +12,10 @@
   defrfrgeghdefrfrgegh
 - ## Design Mockups
   defrfrgeghdefrfrgegh
-- ## Deployed URL(Author with link to homepage)
+- ## Deployed URL https://kuiyuanyuedui.github.io/
   🚀 [My Homepage Site](https://pages.github.com/).
 - ## Video Demonstration
   📹 [My Homepage Site](https://kuiyuanyuedui.github.io/).
-  URL: https://kuiyuanyuedui.github.io/
 - ## Screenshot
 - ## Tech Requirements
 - ## How to install/use
