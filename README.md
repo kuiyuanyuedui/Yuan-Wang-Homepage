@@ -5,9 +5,9 @@
 
 - ## Project Objective
 - ## Project Description
-  defrfrgeghdefrfrgegh
+  a simple homepage site, it includs skills, courses, projects and contact pages.
 - ## User Personas
-  defrfrgeghdefrfrgegh
+  a recruiter is browing tons of text resumes everyday, it causes the visual fatigue, personal website is a good way to show your info to recuiter
 - ## User Stories
   defrfrgeghdefrfrgegh
 - ## Design Mockups
