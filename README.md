@@ -9,17 +9,15 @@
 - ## Project Description
   a simple homepage site, it includs skills, courses, projects and contact pages.
 - ## User Personas
+  - job recruiter
+- ## User Stories
   - a recruiter is browing tons of text resumes everyday, it causes the visual fatigue.
   - personal website would be a good option to show your info to recuiter
-- ## User Stories
-  defrfrgeghdefrfrgegh
-- ## Design Mockups
-  defrfrgeghdefrfrgegh
 - ## Deployed URL 
   🚀 [My Homepage Site](https://pages.github.com/).
   -> URL https://kuiyuanyuedui.github.io/
 - ## Video Demonstration
-  📹 [My Homepage Site](https://www.youtube.com/watch?v=d4AiDV3Cn-g&t=63s).
+  📹 [Youtube Video](https://www.youtube.com/watch?v=d4AiDV3Cn-g&t=63s).
 - ## Screenshot1
 - ![s1](/images/1.png)
 - ## Screenshot2
