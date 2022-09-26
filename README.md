@@ -15,7 +15,7 @@
 - ## Deployed URL https://kuiyuanyuedui.github.io/
   🚀 [My Homepage Site](https://pages.github.com/).
 - ## Video Demonstration
-  📹 [My Homepage Site](https://kuiyuanyuedui.github.io/).
+  📹 [My Homepage Site](https://www.youtube.com/watch?v=d4AiDV3Cn-g&t=63s).
 - ## Screenshot1
 - ![s1](/images/1.png)
 - ## Screenshot2
