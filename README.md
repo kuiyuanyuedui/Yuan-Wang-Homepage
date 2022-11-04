@@ -18,7 +18,9 @@
   🚀 [My Homepage Site](https://pages.github.com/).
   -> URL https://kuiyuanyuedui.github.io/
 - ## Video Demonstration
-  📹 [Youtube Video](https://www.youtube.com/watch?v=d4AiDV3Cn-g&t=63s).
+  📹 [Youtube Video](https://www.youtube.com/watch?v=d4AiDV3Cn-g&t=63s)
+- ## Mock-ups-Design 
+  ![s1](/images/WechatIMG55.png)
 - ## Screenshot1
 - ![s1](/images/1.png)
 - ## Screenshot2
