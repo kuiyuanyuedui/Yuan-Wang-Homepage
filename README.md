@@ -4,12 +4,13 @@
 **Class**  [CS 5610 Web Development 2022 Fall](https://johnguerra.co/classes/webDevelopment_fall_2022/)
 
 - ## Project Objective
-- The purpose of this project was to display my background on computer science,
-- I will use advanced skills to develope this website.
+- The purpose of this project was to display my education background, contacts, classes I have been taken.
 - ## Project Description
   a simple homepage site, it includs skills, courses, projects and contact pages.
 - ## User Personas
-  - job recruiter
+  - Jack, job recruiter who would love to get to know more info about candinates through a simple web.
+  - Linda, who is looking for a job, she would love to show the HR her background via a personal page.
+  
 - ## User Stories
   - a recruiter is browing tons of text resumes everyday, it causes the visual fatigue.
   - personal website would be a good option to show your info to recuiter
